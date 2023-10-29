@@ -3,7 +3,7 @@
   <img src="icon128.png" alt="ChatEDU Icon" width="128px" height="128px">
 </p>
 <p align="center">
-  A Google Chrome extension integrating a streamlined overlay into ChatGPT's main interface.
+  A Chrome browser extension that provides access to pre-made prompts in order to help users get clear and specific educational answers from ChatGPT.
 </p>
 
 ---

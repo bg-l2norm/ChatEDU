@@ -44,7 +44,7 @@ This Chrome extension was a result of our hard work during the 'AI Classroom Cha
 
 ## 🤝 Contribute
 
-ChatEDU aims to be a community-driven project. We welcome contributors who can add more prompt templates, enhance functionality, or fix any potential issues. Your contributions can make this tool even more powerful for educators and students worldwide!
+ChatEDU is mainly a personal project, but it's also open-source. We welcome help from contributors. You can add more prompt templates, improve how the tool works, or help fix bugs. Any contributions will be credited in the project's repository. Your input can help make this tool even more useful for educators and students around the world.
 
 ## 📜 License
 

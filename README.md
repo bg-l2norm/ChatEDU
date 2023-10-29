@@ -39,7 +39,8 @@
 ## 🔗 Links
 
 This Chrome extension was a result of our hard work during the 'AI Classroom Challenge' on Devpost. 
-- [View our submission](link)
+- [View our submission](https://devpost.com/software/chat-edu)
+
 
 ## 🤝 Contribute
 

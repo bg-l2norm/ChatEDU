@@ -3,7 +3,7 @@
   <img src="icon128.png" alt="ChatEDU Icon" width="128px" height="128px">
 </p>
 <p align="center">
-  A Chrome browser extension that provides access to pre-made prompts in order to help users get clear and specific educational answers from ChatGPT.
+  ChatEDU is an extension for the Chrome browser that helps users access better prompts for ChatGPT.
 </p>
 
 ---

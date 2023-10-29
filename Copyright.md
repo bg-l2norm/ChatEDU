@@ -2,7 +2,9 @@
 
 This project, hosted under [bg-neural](https://github.com/bg-neural) on GitHub, is our original work. While ChatEDU is open-source under the [MIT License](LICENSE), this license mandates that the original copyright notice and permission notice be included in all copies or substantial portions of the software. Using, modifying, or distributing this software should be in compliance with the license terms.
 
-We encourage genuine collaboration and contributions. However, we urge individuals and organizations to use this in good faith, respecting the project's original intent. Wrongfully claiming this work as one's own, especially for competitions, hackathons, or academic purposes, is not only unethical but may also infringe upon the license terms and intellectual property rights.
+We encourage genuine collaboration and contributions. However, we urge individuals and organizations to use this in good faith, respecting the project's original intent. 
+
+Wrongfully claiming this work as one's own, especially for competitions, hackathons, or academic purposes, is not only unethical but may also infringe upon the license terms and intellectual property rights.
 
 ### 🤝 Contributing
 

@@ -126,8 +126,8 @@ function addQuickGuideToPanel(panel) {
     return link;
   };
 
-  const userLink = createHyperlink('https://hastebin.com/share/sofojatafu.markdown', 'Custom Instruction - User');
-  const modelLink = createHyperlink('https://hastebin.com/share/kaderesoso.vbnet', 'Custom Instruction - Model');
+  const userLink = createHyperlink('https://hastebin.com/share/icupocohaf.markdown', 'Custom Instruction - User');
+  const modelLink = createHyperlink('https://hastebin.com/share/amoxexoliv.vbnet', 'Custom Instruction - Model');
 
   quickGuideContainer.appendChild(userLink);
   quickGuideContainer.appendChild(document.createElement('br'));

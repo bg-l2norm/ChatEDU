@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Chat EDU",
+  "version": "1.0",
+  "description": "ChatEDU: Making ChatGPT Great Again For Education",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://chat.openai.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["icon128.png"],
+      "matches": ["https://chat.openai.com/*"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+	"default_script": ["popup.js"]
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

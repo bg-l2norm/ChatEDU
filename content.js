@@ -91,7 +91,7 @@ function applyHeadingEffects() {
         }, 3000);  // 3 seconds delay
     });
 }
-
+//This project, hosted under bg-neural on GitHub is our original work
 //DROP-DOWN
 // Function to add QuickGuide to panel
 function addQuickGuideToPanel(panel) {

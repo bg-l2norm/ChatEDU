@@ -1,7 +1,6 @@
 <h1 align="center">ChatEDU 🎓</h1>
 <p align="center">
-  ![ChatEDU Icon](https://github.com/bg-neural/ChatEDU/blob/main/icon128.png)
- 
+  <img src="icon128.png" alt="ChatEDU Icon" width="128px" height="128px">
 </p>
 <p align="center">
   ChatEDU is an extension for the Chrome browser that helps users access better prompts for ChatGPT.

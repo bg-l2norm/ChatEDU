@@ -48,7 +48,7 @@ ChatEDU is mainly a personal project, but it's also open-source. We welcome help
 
 ## 📜 License
 
-This project is open-source and available under the [Apache License](LICENSE).
+This project is open-source and available under the [Apache 2.0 License](LICENSE).
 
 ---
 
